@@ -130,3 +130,10 @@ Time List:
 23. 22.00   L' U L' B' L' B' L' U' l' r' b 
 24. 31.60   U R' L R' U' L R B' l' r' u
 25. 29.06   B' U R' L U' B' L B' l' r' b' u'
+
+**Goals**  
+March 18th goal: Complete at least one solve in under 35 seconds.  
+Goal Accomplished?: Yes, I completed 13 solves with times under 35 seconds.
+
+March 19th goal: Complete at least 5 solves with times under 25 seconds.  
+Goal Accomplished?: Yes! I successfully completed 5 solves with times less than 25 seconds.
